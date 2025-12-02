@@ -77,7 +77,7 @@ You can also set these as environment variables instead of using a `.env` file.
 From the project root:
 
 ```bash
-python -m src.main "https://www.youtube.com/watch?v=X27IfAgzhTY&list=RDX27IfAgzhTY&start_radio=1"
+python -m main "https://www.youtube.com/watch?v=X27IfAgzhTY&list=RDX27IfAgzhTY&start_radio=1"
 ```
 
 Example JSON output (simplified):
